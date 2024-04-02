@@ -1,4 +1,5 @@
-package com.sqlywgl.project.model;
+//package com.sqlywgl.project.model;
+package com.sqlywgl.model;
 import jakarta.persistence.*;
 @Entity
 @Table(name = "javasj_database")
